@@ -1,5 +1,5 @@
 <h3> Hi!</h3>
-<p> My name is Maria Sadovnikova and I am a frontend developer. </p>
+<p> My name is Maria Sadovnikova and I am a frontend-developer. </p>
 <h3 align="left">Stack: </h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
