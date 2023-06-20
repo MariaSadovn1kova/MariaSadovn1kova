@@ -1,6 +1,5 @@
 <h3> Hi!</h3>
 <p> My name is Maria Sadovnikova and I am a frontend-developer. I graduated from Irkutsk National Research Technical University in the direction of information technology in administrative management.At the moment I am developing in the field of web programming. </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariasadovn1kova" alt="mariasadovn1kova" /></a> </p>
 <h3 align="left">Stack: </h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -46,3 +45,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariasadovn1kova&show_icons=true&locale=en&layout=compact" alt="mariasadovn1kova" 
 height = "200px"/></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariasadovn1kova" alt="mariasadovn1kova" /></a> </p>
