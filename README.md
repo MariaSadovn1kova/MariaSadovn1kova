@@ -1,5 +1,5 @@
 <h3> Hi!</h3>
-<p> My name is Maria Sadovnikova and I am a frontend-developer. I graduated from Irkutsk National Research Technical University in the direction of information technology in administrative management.At the moment I am developing in the field of web programming. </p>
+<p> My name is Maria Sadovnikova and I am a frontend-developer. I graduated from Irkutsk National Research Technical University in the direction of information technology in administrative management. At the moment I am developing in the field of web programming. </p>
 <h3 align="left">Stack: </h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
